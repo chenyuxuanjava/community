@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/community.iml" filepath="$PROJECT_DIR$/community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community-dao/community-dao.iml" filepath="$PROJECT_DIR$/community-dao/community-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community-interface/community-interface.iml" filepath="$PROJECT_DIR$/community-interface/community-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community-pojo/community-pojo.iml" filepath="$PROJECT_DIR$/community-pojo/community-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community-web/community-web.iml" filepath="$PROJECT_DIR$/community-web/community-web.iml" />
+    </modules>
+  </component>
+</project>
